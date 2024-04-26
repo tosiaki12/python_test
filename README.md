@@ -1,2 +1,2 @@
 # python_test
-pythonのいろいろなもの
+python
